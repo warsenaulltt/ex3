@@ -77,6 +77,10 @@ header {
   color: #c62828;
 }
 
+.section :hover{
+  box-shadow: 5px 5px;
+  
+}
 /*
     #3 
     Au survol des sections, mettre une ombre interne aux boutons :
